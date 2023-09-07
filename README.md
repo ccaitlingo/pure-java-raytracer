@@ -1,5 +1,7 @@
 
 # pure-java-raytracer
+A copy of the following:
+
 An experimental Ray tracer I made completely from scratch, without any external libraries.  
 This program was made for testing/learning purposes only, which is why it runs mostly single-threaded on the CPU.  
 I covered the development of this engine in [this video on my YouTube channel.  
